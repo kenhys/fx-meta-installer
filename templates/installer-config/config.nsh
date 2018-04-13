@@ -9,7 +9,7 @@
 !define PRODUCT_PUBLISHER   "ClearCode Inc."
 !define PRODUCT_DOMAIN      "clear-code.com"
 !define PRODUCT_WEB_SITE    "http://www.clear-code.com/"
-!define PRODUCT_WEB_LABEL   "ƒNƒŠƒAƒR[ƒh‚Ìƒz[ƒ€ƒy[ƒW‚ð•\Ž¦"
+!define PRODUCT_WEB_LABEL   "ã‚¯ãƒªã‚¢ã‚³ãƒ¼ãƒ‰ã®ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸ã‚’è¡¨ç¤º"
 !define PRODUCT_LANGUAGE    "Japanese"
 !define PRODUCT_INSTALL_MODE "PASSIVE"
 
